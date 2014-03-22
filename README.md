@@ -5,8 +5,7 @@ Code for use IntelGalileo Board as music player using the PWM controller frequen
 
 The arduino-1.5 programmer should be at the same level than the project folder. Nevertheless, you have to change the library paths in the Makefile.
 
-Demo video:
-[![IMAGE ALT TEXT HERE](http://youtu.be/NxdWh35ob8I/0.jpg)](http://youtu.be/NxdWh35ob8I)
+Demo video available [here](http://youtu.be/NxdWh35ob8I).
 
 ======
 Requirements and testbed
